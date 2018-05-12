@@ -50,7 +50,6 @@ Second, install [Bower](https://bower.io/) using [npm](https://www.npmjs.com)
     mkdir my-app
     cd my-app
     polymer init polymer-2-starter-kit
-    polymer install
 
 ### Start the development server
 
